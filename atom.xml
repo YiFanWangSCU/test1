@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
-    <title>Gridea</title>
-    <updated>2022-05-10T11:54:11.115Z</updated>
+    <title>菜鸡信子的第一次网页建立的尝试</title>
+    <updated>2022-05-10T14:15:46.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>人生得意须尽欢，莫使金樽空对月。</subtitle>
     <logo>http://localhost:4000/images/avatar.png</logo>
     <icon>http://localhost:4000/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 菜鸡信子的第一次网页建立的尝试</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[抱歉]]></title>
+        <id>http://localhost:4000/post/zan-wu/</id>
+        <link href="http://localhost:4000/post/zan-wu/">
+        </link>
+        <updated>2022-05-10T14:08:27.000Z</updated>
+        <content type="html"><![CDATA[<p>功能我还没搞清楚，等我有时间再继续开发了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello,world]]></title>
         <id>http://localhost:4000/post/hello-gridea/</id>
         <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>👏  这边呢<br>
+✍️  我将进行一个网页的尝试，封面的虚拟歌姬还不能放歌QAQ</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  这边呢<br>
+✍️  我将进行一个网页的尝试，封面的虚拟歌姬还不能放歌QAQ</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
+<p><a href="https://live.bilibili.com/23197314?spm_id_from=333.337.0.0">学习</a><br>
+<a href="https://live.bilibili.com/23197314?spm_id_from=333.337.0.0">努力</a><br>
+<a href="https://live.bilibili.com/23197314?spm_id_from=333.337.0.0">勤奋</a></p>
+<h2 id="特性我决定保留一下">特性👇（我决定保留一下）</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和文章任意位置插入图片</p>
 <p>🏷️  你可以对文章进行标签分组</p>
